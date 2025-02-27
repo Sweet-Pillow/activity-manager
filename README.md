@@ -4,23 +4,23 @@ Projeto de uma plataforma de registro de atividade acadêmicas.
 
 ## 🛠 Instalação
 
-Primeiro é necessario clonar o projeto:
+Primeiro, é necessario clonar o repositorio:
 
 ```
 git clone https://github.com/Sweet-Pillow/activity-manager.git
 ```
 
-Dentro da pasta da projeto é necessario instalar as bibliotecas necessarias, para isso basta usar o comando:
+Dentro da pasta do projeto, instalar as bibliotecas necessarias, para isso basta usar o comando:
 
 ```
 npm i
 ```
 
-O projeto usa o Expo para rodar, então é aconselhaveu baixar o aplicativo Expo GO no celular pela PlayStore.
+O projeto usa o Expo para simular, então é necessario baixar o aplicativo Expo GO no celular pela PlayStore.
 
 ## ⚙ Execução
 
-Para rodar o programa roda a seguinte linha:
+Para rodar o programa execute a seguinte linha:
 
 ```
 npx expo start
